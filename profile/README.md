@@ -18,8 +18,10 @@ lesson for every step. Learning path repos appear here as each path launches.
 
 ## Follow along
 
+- YouTube: [@ewoibuilds](https://www.youtube.com/@ewoibuilds) for full walkthroughs; subscribe for the next one
 - TikTok: [@ewoibuilds](https://www.tiktok.com/@ewoibuilds)
 - Instagram: [@ewoibuilds](https://www.instagram.com/ewoibuilds/)
+- Facebook: [Ewoi Builds](https://www.facebook.com/profile.php?id=61596671420317)
 
 ## Support free learning
 
