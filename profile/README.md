@@ -27,6 +27,6 @@ lesson for every step. Learning path repos appear here as each path launches.
 
 Star the repos that help you, follow the organisation for new projects, and share a lesson with a
 friend who is learning. Every lesson stays free; if one helped you, you can say thanks with a
-[coffee](https://buymeacoffee.com/ewoibuilds).
+[soda (M-Pesa)](https://buymesoda.com/Rd3JwfQpNGaUXdyc4ImyIrXrENu2) or a [coffee](https://buymeacoffee.com/ewoibuilds).
 
 **Learn. Build. Ship.**
