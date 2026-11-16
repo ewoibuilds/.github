@@ -13,7 +13,9 @@ own GitHub: practical software engineering, free, from your first commit to a de
 |---|---|---|
 | Start from zero | [developer-foundations](https://github.com/ewoibuilds/developer-foundations) | 7 steps: how the web works, Git, the terminal, SQL |
 | Publish your first site | [portfolio-website](https://github.com/ewoibuilds/portfolio-website) | A template you can use and put live free with GitHub Pages |
+| Build web apps | [practical-software-development](https://github.com/ewoibuilds/practical-software-development) | Laravel routes, a REST API and M-Pesa payments, step by step |
 | Build web apps | [task-tracker-laravel](https://github.com/ewoibuilds/task-tracker-laravel) | A Laravel project, milestone by milestone, with tests |
+| Take payments safely | [mpesa-checkout-api](https://github.com/ewoibuilds/mpesa-checkout-api) | An M-Pesa checkout with confirmed callbacks, no double charges |
 | Write secure code | [secure-web-development](https://github.com/ewoibuilds/secure-web-development) | Vulnerabilities, password hashing and a secure Laravel app |
 | Join an evening cohort | [cohort-week-template](https://github.com/ewoibuilds/cohort-week-template) | Your weekly project repo: brief, build log, reflection |
 
