@@ -7,14 +7,24 @@
 Every repo here is a step toward a real, full project that you build yourself and keep on your
 own GitHub: practical software engineering, free, from your first commit to a deployed app.
 
+## Start here
+
+| Your goal | Repo | What you get |
+|---|---|---|
+| Start from zero | [developer-foundations](https://github.com/ewoibuilds/developer-foundations) | 7 steps: how the web works, Git, the terminal, SQL |
+| Publish your first site | [portfolio-website](https://github.com/ewoibuilds/portfolio-website) | A template you can use and put live free with GitHub Pages |
+| Build web apps | [task-tracker-laravel](https://github.com/ewoibuilds/task-tracker-laravel) | A Laravel project, milestone by milestone, with tests |
+| Write secure code | [secure-web-development](https://github.com/ewoibuilds/secure-web-development) | Vulnerabilities, password hashing and a secure Laravel app |
+| Join an evening cohort | [cohort-week-template](https://github.com/ewoibuilds/cohort-week-template) | Your weekly project repo: brief, build log, reflection |
+
 ## How to use these repos
 
-1. Pick a learning path repo and start at `step-01`.
-2. Build each step yourself, then compare with the next step's code when you get stuck.
-3. Commit as you go. By the last step you have a complete full-stack project of your own.
+1. Pick the repo for your goal and start at `step-01` (or press **Use this template** on a project).
+2. Build each step yourself, then compare with the step's code when you get stuck.
+3. Commit as you go. By the last step you have a complete project of your own.
 
-Each repo's README lists what you need (computer, tools and versions), the Git setup, and the
-lesson for every step. Learning path repos appear here as each path launches.
+Each repo lists what you need (computer, tools and versions), the Git setup, and the lesson for
+every step. More paths and projects land here as they launch: follow the organisation to get them.
 
 ## Follow along
 
