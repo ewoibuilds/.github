@@ -7,6 +7,9 @@
 Every repo here is a step toward a real, full project that you build yourself and keep on your
 own GitHub: practical software engineering, free, from your first commit to a deployed app.
 
+**Every lesson is free to read at [ewoibuilds.com](https://ewoibuilds.com):** learning paths, quizzes, projects and
+the guide to [learning to code in Kenya](https://ewoibuilds.com/learn-to-code-kenya).
+
 ## Start here
 
 | Your goal | Repo | What you get |
